@@ -1,6 +1,6 @@
 ---
 description: Address PR review comments
-agent: plan
+agent: build
 ---
 Address all unresolved comments from the PR by making a todo list.
 Either respond to them or mark them as resolved.
